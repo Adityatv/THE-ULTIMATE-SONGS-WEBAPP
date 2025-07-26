@@ -750,7 +750,7 @@ const Home = () => {
         <div className="flex   items-center sm:justify-center sm:pt-2 gap-3">
           <img className="w-[5vw] sm:w-[10vw] rounded-full" src={logo} alt="" />
           <h1 className="text-2xl text-slate-900 p-2 rounded-full bg-neutral-500 sm:text-xl  font-black">
-            THE ULTIMATE SONGS
+            AD TV SONGS
           </h1>
         </div>
         <motion.div
@@ -799,7 +799,7 @@ const Home = () => {
           <a
             target="_blank"
             href={
-              "https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-WEBAPP"
+              "https://aaditv.free.nf/aaditv.app/Music-Player/index.html"
             }
             className="ml-4 sm:ml-2 cursor-pointer  text-3xl  text-zinc-500   ri-github-fill"
           ></a>
